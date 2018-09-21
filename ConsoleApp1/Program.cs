@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MCronberg;
+using MCronberg; //bl.a. toStringEx   ConsoleEx
 
 namespace ConsoleApp1
 {
@@ -13,7 +13,7 @@ namespace ConsoleApp1
         {
 
 
-
+            //
 
 
             // Keep console open when debugging
